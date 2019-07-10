@@ -1,0 +1,23 @@
+{
+  "name": "Server",
+  "version": "1.0.0",
+  "description": "Ramanan R Billing System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramanan R",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.5.3",
+    "hapi-swagger": "^9.1.1",
+    "inert": "^5.1.0",
+    "mysql": "^2.16.0",
+    "mysql-promise": "^4.1.0",
+    "relish": "^0.2.5",
+    "vision": "^5.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
